@@ -1,6 +1,6 @@
 {
-  "name": "تایتل تستی",
-  "short_name": "تایتل تستی",
+  "name": "سیستم عامل",
+  "short_name": "سیستم عامل",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

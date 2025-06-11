@@ -1,4 +1,4 @@
-baseURL = 'https://book.gofarsi.ir'
+baseURL = 'https://os.kavehmoradian.com'
 languageCode = 'fa-IR'
 title = 'سیستم عامل'
 theme = 'book'
